@@ -1,3 +1,4 @@
+![illu](https://d2slcw3kip6qmk.cloudfront.net/marketing/techblog/how-to-plan-a-programming-competition-header@2x.png)
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Boris N'KUAKO, 
   Junior Front/Back-end Developer, based in Paris. 
   
