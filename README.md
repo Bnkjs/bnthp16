@@ -22,6 +22,14 @@
   - 🚀 Crafted my [Portfolio](http://borisnkuako.com/)
   - 📖 Currently learning everything about JS ( Tests, Framework, clean code)
   - 💻 🔥 Building a project by week in JS/REACT (design + development + deployment)
+
+ ## What I'm looking for:
+🚀 I would like to join a company as a Fullstack Developer with which:
+
+- I will share common values and vision
+- I will take part in large-scale projects
+- I develop my experience
+- I will be supported with kindness by pairs who would help me to improve my skills
   
 ## To Reach Me :
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=%230A66C2&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/borisnkuako/)
