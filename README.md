@@ -19,7 +19,7 @@
       
   
   ## Now:
-  - 🚀 Crafted my [Portfolio](http://borisnkuako.com/)
+  - 🚀 Crafted my [Portfolio](https://bnkuako.vercel.app/)
   - 📖 Currently learning everything about JS ( Tests, Framework, clean code)
   - 💻 🔥 Building a project by week in JS/REACT (design + development + deployment)
 
