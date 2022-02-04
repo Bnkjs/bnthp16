@@ -1,4 +1,4 @@
-![illu](./bn_01_ok.svg)
+![illu](./bn_01.svg)
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Boris N'KUAKO, 
   Junior Front/Back-end Developer from 🇫🇷, based in Paris.
    ## Things I code with on a daily:
